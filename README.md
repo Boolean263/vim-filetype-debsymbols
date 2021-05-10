@@ -21,7 +21,7 @@ copy the files from this repo into the equivalent directories in your `~/.vim` d
 
 No special steps should be necessary.
 It should detect files named `symbols` and `*.symbols` and apply the highlighting.
-If you aren't experiencing this, you can try the vim command `:set filetype=deb-symbols`.
+If you aren't experiencing this, you can try the vim command `:set filetype=debsymbols`.
 
 ## Future Improvements
 
